@@ -3,3 +3,5 @@ pandas
 selenium
 beautifulsoup4
 undetected-chromedriver
+langchain-groq
+python-dotenv
