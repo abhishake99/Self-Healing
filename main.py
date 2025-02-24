@@ -7,10 +7,17 @@ import json
 import time
 import re
 import pandas as pd
+import sys
 
-driver=createwebdriver('',driver_type='uc')
+
 # Load the webpage
 web_page_url=""
+if web_page_url=="":
+    print("Please provide a valid URL")
+    sys.exit()
+
+driver=createwebdriver('',driver_type='uc')
+
 driver.get(web_page_url)  # Replace with the actual URL
 time.sleep(10)  # Wait for page to load
 
