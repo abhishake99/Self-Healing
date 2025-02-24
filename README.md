@@ -42,7 +42,9 @@ web_page_url = "https://example.com"
 
 ```bash
 python main.py
-```  
+```
+
+- When the `main.py` script executes successfully , then run the `Generate_Xpaths_Groq.py` script for generating xpaths
 
 ## 📂 Project Structure  
 
@@ -63,5 +65,3 @@ Feel free to contribute! Open an issue or submit a pull request if you have any 
 
 This project is **open-source** and available under the **MIT License**.  
 ```  
-
-Just copy and paste this into your `README.md`, and you're all set! 🚀 Let me know if you need any changes. 😃
