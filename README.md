@@ -1,6 +1,4 @@
-Sure! Here’s the entire Markdown code in one block for easy copying:  
 
-```markdown
 # Self-Healing - AI-Powered XPath & CSS Selector Generator  
 
 A **Generative AI** approach for **highly selector-dependent systems** (XPaths, CSS). This system can be integrated into existing workflows to **automatically update selectors**, reducing human effort and making data extraction scripts more **robust and resilient**.  
